@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6AC1,50:9D4EDD,100:00F5FF&section=header&text=Ajaydas%20E.%20V.&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=midnight%20drive%20%C2%B7%20neon%20skyline%20%C2%B7%20clean%20code&descSize=18&descAlignY=62" alt="Ajaydas E. V." />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:E879A9,50:8B5CF6,100:38BDF8&section=header&text=Ajaydas%20E.%20V.&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Master%20of%20Computer%20Applications%20%C2%B7%20College%20of%20Engineering%20Chengannur&descSize=16&descAlignY=68" alt="Ajaydas E. V." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1200&color=FF6AC1&center=true&vCenter=true&width=640&height=40&lines=MCA+Student+at+CEC;Programming+%C2%B7+Web+%C2%B7+Linux;Coursework+%C2%B7+Practice+%C2%B7+Projects" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=Software+Development;Web+Development+%C2%B7+Linux;Coursework+%C2%B7+Practice+%C2%B7+Projects" alt="Typing intro" />
 
 <p>
-  <img src="https://img.shields.io/badge/MCA-College%20of%20Engineering%20Chengannur-FF6AC1?style=for-the-badge&labelColor=1A1033" alt="MCA" />
-  <img src="https://img.shields.io/badge/Kerala-India-00F5FF?style=for-the-badge&labelColor=1A1033" alt="Kerala" />
+  <img src="https://img.shields.io/badge/MCA-College%20of%20Engineering%20Chengannur-E879A9?style=for-the-badge&labelColor=1A1033" alt="MCA" />
+  <img src="https://img.shields.io/badge/Kerala-India-38BDF8?style=for-the-badge&labelColor=1A1033" alt="Kerala" />
 </p>
 
 </div>
 
 <br/>
 
-## 🌆 About
+## About
 
-I'm an MCA student at the **College of Engineering Chengannur**. This GitHub is my academic workspace: coursework, lab programs, practice problems, web experiments and projects, all in one place.
+I am an MCA student at the **College of Engineering Chengannur**. This GitHub is my academic workspace: coursework, lab programs, practice problems, web experiments and projects, all in one place.
 
 <br/>
 
-## 🌴 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -47,7 +47,7 @@ I'm an MCA student at the **College of Engineering Chengannur**. This GitHub is 
 
 <br/>
 
-## 🌸 What's Inside
+## What's Inside
 
 | | Section | Description |
 |:-:|---|---|
@@ -60,7 +60,5 @@ I'm an MCA student at the **College of Engineering Chengannur**. This GitHub is 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5FF,50:9D4EDD,100:FF6AC1&section=footer&reversal=true" alt="footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:38BDF8,50:8B5CF6,100:E879A9&section=footer" alt="footer" />
 </div>
