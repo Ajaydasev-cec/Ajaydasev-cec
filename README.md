@@ -1,98 +1,103 @@
-# Hi, I'm Ajaydas E. V. 👋
+<div align="center">
 
-### MCA Student | Aspiring Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ajaydas+%F0%9F%91%8B;MCA+Student;Aspiring+Software+Developer" alt="Ajaydas E. V." />
 
-🎓 **Master of Computer Applications (MCA)** student at the **College of Engineering Chengannur (CEC)**, Kerala, India.
-
-Welcome to my GitHub profile! I'm passionate about technology, programming, and exploring how software can solve real-world problems. This profile is where I document my learning journey, share my college assignments, practice programming, and build projects as I develop my skills in computer science.
-
-I'm continuously learning new concepts, experimenting with different technologies, and improving my problem-solving abilities. My goal is to build a strong foundation in software development and grow into a skilled developer.
-
-📍 Based in Wandoor, Kerala, India.
-
----
-
-## 💻 Technologies I'm Learning
-
-These are the programming languages, web technologies, and tools I'm currently learning and exploring.
-
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="42" height="42"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="42" height="42"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="42" height="42"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="42" height="42"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="42" height="42"/>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="42" height="42"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="42" height="42"/>
-  </a>
+<p>
+  Master of Computer Applications &nbsp;·&nbsp; College of Engineering Chengannur &nbsp;·&nbsp; Kerala, India
 </p>
 
----
-
-## 📚 What You'll Find Here
-
-This GitHub profile serves as a collection of my academic work, programming practice, and personal learning projects.
-
-- 🎓 **College Work:** Assignments, practical programs, and laboratory exercises from my MCA journey.
-- 💡 **Programming Practice:** Programs and exercises to strengthen my understanding of programming fundamentals.
-- 🌐 **Web Development:** Experiments and projects involving HTML, CSS, JavaScript, and other web technologies.
-- 🧠 **Problem Solving:** Coding exercises that help me improve my logical thinking and algorithmic skills.
-- 🚀 **Projects:** Academic and personal projects that allow me to apply what I learn.
-- 📖 **Learning and Exploration:** Experiments with new tools, technologies, and concepts in computer science.
-
-I'll continue updating my repositories as I learn, practice, and work on new projects.
-
----
-
-## 🎯 My Goals
-
-- Strengthen my programming fundamentals.
-- Improve my problem-solving and analytical skills.
-- Learn data structures and algorithms.
-- Explore software and web development.
-- Build practical projects and gain hands-on experience.
-- Become familiar with Git, GitHub, and collaborative development.
-- Continuously learn and grow as a developer.
-
----
-
-## 🌱 A Little About Me
-
-I'm currently pursuing my MCA at the College of Engineering Chengannur. I enjoy exploring technology, learning programming languages, and understanding how different technologies work together.
-
-I believe that learning happens through consistent practice, experimentation, and building things from scratch. I'm using GitHub to track my progress, organize my academic work, and create a portfolio of projects that reflects my growth over time.
-
-I'm still learning, and that's the point. Every repository, program, and project is another step forward.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning from others, discovering new technologies, and connecting with fellow students and developers.
-
-If you're also learning to code, working on interesting projects, or exploring computer science, feel free to connect!
-
----
-
-<p align="center">
-  <i>Learning something new every day, one line of code at a time. 💻</i>
+<p>
+  <img src="https://img.shields.io/badge/MCA-CEC-6366F1?style=flat-square&labelColor=1e1b4b" alt="MCA" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-8B5CF6?style=flat-square&labelColor=1e1b4b" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Learning-22C55E?style=flat-square&labelColor=1e1b4b" alt="Status" />
+  <img src="https://img.shields.io/badge/Based%20in-Wandoor-F59E0B?style=flat-square&labelColor=1e1b4b" alt="Location" />
 </p>
+
+</div>
+
+<br/>
+
+## ✨ About
+
+I'm an MCA student at the **College of Engineering Chengannur**, building a strong foundation in software development. This GitHub is my academic workspace: coursework, lab programs, practice problems, and projects, all in one place.
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,py,js,php,html,css,linux,git,github,vscode&theme=dark&perline=11" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,py,js,php,html,css,linux,git,github,vscode&theme=light&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,php,html,css,linux,git,github,vscode&perline=11" alt="Tech stack" />
+</picture>
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧠 Languages</h4>
+      C · Java · Python<br/>JavaScript · PHP
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Web</h4>
+      HTML5 · CSS3<br/>JavaScript · PHP
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛠️ Tools</h4>
+      Linux · Git · GitHub<br/>VS Code
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📂 What's Inside
+
+| | Section | Description |
+|:-:|---|---|
+| 🎓 | **Coursework** | Assignments and lab programs from my MCA subjects |
+| 💡 | **Practice** | Programming exercises to sharpen the fundamentals |
+| 🌐 | **Web** | HTML, CSS, JavaScript and PHP experiments |
+| 🧩 | **Problem Solving** | Data structures and algorithms practice |
+| 🚀 | **Projects** | Academic and personal builds |
+
+<br/>
+
+## 🎯 Currently Working Towards
+
+```text
+[██████░░░░]  Programming fundamentals
+[███░░░░░░░]  Data structures & algorithms
+[████░░░░░░]  Web development
+[███░░░░░░░]  Git & collaboration
+```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<sub><i>Learning something new every day, one line of code at a time. 💻</i></sub>
+
+</div>
