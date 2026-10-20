@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:E879A9,50:8B5CF6,100:38BDF8&section=header&text=Ajaydas%20E.%20V.&fontSize=40&fontColor=ffffff&fontAlignY=50" alt="Ajaydas E. V." />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:E879A9,50:8B5CF6,100:38BDF8&section=header&text=Ajaydas%20E.%20V.&fontSize=40&fontColor=ffffff&fontAlignY=50" alt="Ajaydas E V " />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1400&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=MCA+%C2%B7+College+of+Engineering+Chengannur;Data+Structures+%C2%B7+Algorithms+%C2%B7+Databases" alt="Typing intro" />
 
