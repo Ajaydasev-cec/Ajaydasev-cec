@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:E879A9,50:8B5CF6,100:38BDF8&section=header&text=Ajaydas%20E.%20V.&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Master%20of%20Computer%20Applications%20%C2%B7%20College%20of%20Engineering%20Chengannur&descSize=16&descAlignY=68" alt="Ajaydas E. V." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=Software+Development;Web+Development+%C2%B7+Linux;Coursework+%C2%B7+Practice+%C2%B7+Projects" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=700&height=40&lines=Master+of+Computer+Applications;Data+Structures+%C2%B7+Algorithms+%C2%B7+Databases;Computer+Networks+%C2%B7+Machine+Learning+%C2%B7+Software+Engineering" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/MCA-College%20of%20Engineering%20Chengannur-E879A9?style=for-the-badge&labelColor=1A1033" alt="MCA" />
+  <img src="https://img.shields.io/badge/Scheme-KTU%202020-8B5CF6?style=for-the-badge&labelColor=1A1033" alt="KTU 2020 Scheme" />
   <img src="https://img.shields.io/badge/Kerala-India-38BDF8?style=for-the-badge&labelColor=1A1033" alt="Kerala" />
 </p>
 
@@ -15,7 +16,7 @@
 
 ## About
 
-I am an MCA student at the **College of Engineering Chengannur**. This GitHub is my academic workspace: coursework, lab programs, practice problems, web experiments and projects, all in one place.
+I am an MCA student at the **College of Engineering Chengannur**, following the KTU 2020 scheme. This GitHub is my academic workspace: lab programs, assignments, practice problems, and project work from my coursework.
 
 <br/>
 
@@ -47,15 +48,30 @@ I am an MCA student at the **College of Engineering Chengannur**. This GitHub is
 
 <br/>
 
-## What's Inside
+## Coursework
 
-| | Section | Description |
-|:-:|---|---|
-| 🎓 | **Coursework** | Assignments and lab programs from my MCA subjects |
-| 💡 | **Practice** | Programming exercises to sharpen the fundamentals |
-| 🌐 | **Web** | HTML, CSS, JavaScript and PHP experiments |
-| 🧩 | **Problem Solving** | Data structures and algorithms practice |
-| 🚀 | **Projects** | Academic and personal builds |
+| Semester | Subjects |
+|:-:|---|
+| **1** | Mathematical Foundations for Computing · Digital Fundamentals & Computer Architecture · Advanced Data Structures · Advanced Software Engineering |
+| **2** | Advanced Database Management Systems · Advanced Computer Networks |
+| **3** | Data Science & Machine Learning · Design & Analysis of Algorithms |
+| **4** | Seminar · Main Project · Comprehensive Viva |
+
+<br/>
+
+## Lab Work
+
+| Course | Topics |
+|---|---|
+| **Programming Lab (Python)** | Functions, packages, file handling, OOP, exception handling, regular expressions |
+| **Web Programming Lab** | HTML5, CSS3, JavaScript, MySQL, PHP |
+| **Data Structures Lab** | C/C++, trees, heaps, graph algorithms, gcc and gdb |
+| **Object Oriented Programming Lab (Java)** | Inheritance, interfaces, multithreading, collections, socket programming |
+| **Advanced DBMS Lab** | SQL, PL/SQL, NoSQL |
+| **Networking & System Administration Lab** | Linux shell scripting, LAMP stack, Wireshark, Docker, Ansible |
+| **Data Science Lab** | NumPy, Pandas, Matplotlib, supervised learning, NLP |
+| **Mobile Application Development Lab** | Android, layouts, intents, fragments, SQLite |
+| **Mini Project** | Individual project using Git, Docker and CI/CD |
 
 <br/>
 
